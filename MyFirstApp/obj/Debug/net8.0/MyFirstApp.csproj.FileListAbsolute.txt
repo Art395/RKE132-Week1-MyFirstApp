@@ -12,3 +12,4 @@ C:\Users\artem\source\repos\MyFirstApp\MyFirstApp\obj\Debug\net8.0\refint\MyFirs
 C:\Users\artem\source\repos\MyFirstApp\MyFirstApp\obj\Debug\net8.0\MyFirstApp.pdb
 C:\Users\artem\source\repos\MyFirstApp\MyFirstApp\obj\Debug\net8.0\MyFirstApp.genruntimeconfig.cache
 C:\Users\artem\source\repos\MyFirstApp\MyFirstApp\obj\Debug\net8.0\ref\MyFirstApp.dll
+C:\Users\artem\source\repos\MyFirstApp\MyFirstApp\obj\Debug\net8.0\MyFirstApp.sourcelink.json
